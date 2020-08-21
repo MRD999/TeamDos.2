@@ -1,2 +1,2 @@
 # TeamDos.2
-The is a test number 2 of file edits on laptop
+This is the repository for Team Dos 
